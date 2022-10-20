@@ -1,5 +1,5 @@
 # Binary-Search-Tree-Project
-In this project, I worked to analyze a large dataset of every mortgage loan application from Wisconsin in 2020. I wrote classes to organize the applicant's data (their race and age) and the loan data(loan amount, interest rate, number of applicants, etc.). The bank class 
+In this project, I worked to analyze a large dataset of every mortgage loan application from Wisconsin in 2020. 
 
 Loans.py contains 3 classes. The Bank class allows the user to input a Wisconsin bank's name and looks up all loans within the large dataset that come from this bank and adds them to a list. The Loan class parses through the each loan to create attributes that allow the user to look up the number of applicants, interest rate, loan amount, etc. Finally the applicant class parses through the list of applicants within each loan and creates age and race attributes.
 
